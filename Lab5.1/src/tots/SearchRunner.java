@@ -3,7 +3,7 @@ package tots;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class SearchRunner 
+public class SearchRunner  
 {
 	public static void main(String args[])
 	{

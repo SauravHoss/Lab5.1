@@ -28,9 +28,9 @@ public class Node
 	@Override
 	public String toString() 
 	{
-		return "Current City: " + name + " Links: " + getChildren().toString();
+		return "Current City: " + name; //+ " Links: " + getChildren().toString();
 	}
 	
 	
 
-}
+} 

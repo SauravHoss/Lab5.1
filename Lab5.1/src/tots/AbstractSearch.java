@@ -7,3 +7,4 @@ public abstract class AbstractSearch
 	public abstract boolean search();
 
 }
+ 
